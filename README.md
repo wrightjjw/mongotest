@@ -1,0 +1,1 @@
+A quick test project I did following this guide: https://mongoosejs.com/docs/index.html
